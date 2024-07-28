@@ -20,7 +20,7 @@ This is a command-line implementation of the classic TicTacToe game written in C
   ```
 **Compile the Code**:
   ```bash
-  gcc -o tictactoe tictactoe.c
+  gcc -o tictactoe TicTacToe.c
   ```
 **Run the Game**:
   ```bash
